@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="mensaje01">message par défaut (Toast)</string>
+    <string name="boton01">TOAST 01</string>
+    <string name="boton04">BARRE DE NOTIFICATION</string>
+    <string name="MensajeNoti03">Message que la programmation me déteste</string>
+    <string name="MensajeNoti04">cliquez ici</string>
+    <string name="MensajeNoti05">Message d alerte</string>
+    <string name="MensajeNoti06">Ceci est lavertissement que la programmation vous déteste</string>
+    <string name="MensajeNoti07">exemple de notification</string>
+
+</resources>

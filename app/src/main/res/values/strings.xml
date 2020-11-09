@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+    <string name="mensaje01">Mensaje (Toast) por defecto</string>
+
+    <string name="boton01">TOAST 01</string>
+    <string name="boton04">BARRA DE NOTIFICACION</string>
+    <string name="MensajeNoti03">Mensaje de que la Programacion me Odia</string>
+    <string name="MensajeNoti04">CLICK AQUI</string>
+    <string name="MensajeNoti05">Mensaje de Alerta</string>
+    <string name="MensajeNoti06">Esta es la advertencia de que la programacion te odia</string>
+    <string name="MensajeNoti07">Ejemplo de Notificacion</string>
+
+</resources>
